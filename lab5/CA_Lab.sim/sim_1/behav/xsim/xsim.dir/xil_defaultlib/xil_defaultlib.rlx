@@ -1,0 +1,11 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/hp/CA_Lab/CA_Lab.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/hp/CA_Lab/CA_Lab.srcs/sim_1/new/top_fsm_tb.v,1790711117,verilog,,,,top_fsm_tb,,,,,,,,
+D:/clock_divider.v,1790755643,verilog,,D:/debouncer.v,,clock_divider,,,,,,,,
+D:/debouncer.v,1790151503,verilog,,D:/leds.v,,debouncer,,,,,,,,
+D:/leds.v,1790151537,verilog,,D:/skeleton_top_fsm.v,,leds,,,,,,,,
+D:/skeleton_top_fsm.v,1790714554,verilog,,D:/switches.v,,top_fsm_system,,,,,,,,
+D:/switches.v,1790151513,verilog,,C:/Users/hp/CA_Lab/CA_Lab.srcs/sim_1/new/top_fsm_tb.v,,switches,,,,,,,,
